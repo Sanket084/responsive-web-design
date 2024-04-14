@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang ="en">
+  <head>
+    <meta charset = "UTF-8">
+    <style>
+        html {
+  /* Setting a base font size of 10px give us easier rem calculations
+       Info: 1rem === 10px, 1.5rem === 15px, 2rem === 20px and so forth
+     */
+  font-size: 10px;
+}
+
+body {
+  /* Native font stack https://getbootstrap.com/docs/4.2/content/reboot/#native-font-stack */
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto',
+    'Helvetica Neue', Arial, sans-serif;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  text-align: center;
+  color: #333;
+  margin: 0;
+}
+
+h1 {
+  font-size: 4rem;
+  margin-bottom: 0;
+}
+
+@media (max-width: 460px) {
+  h1 {
+    font-size: 3.5rem;
+    line-height: 1.2;
+  }
+}
+
+h2 {
+  font-size: 3.25rem;
+}
+
+a {
+  color: #477ca7;
+}
+
+a:visited {
+  color: #74638f;
+}
+
+#main {
+  margin: 30px 8px;
+  padding: 15px;
+  border-radius: 5px;
+  background: #eee;
+}
+
+@media (max-width: 460px) {
+  #main {
+    margin: 0;
+  }
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+#img-div {
+  background: white;
+  padding: 10px;
+  margin: 0;
+}
+
+#img-caption {
+  margin: 15px 0 5px 0;
+}
+
+@media (max-width: 460px) {
+  #img-caption {
+    font-size: 1.4rem;
+  }
+}
+
+#headline {
+  margin: 50px 0;
+  text-align: center;
+}
+
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+
+li {
+  margin: 16px 0;
+}
+
+blockquote {
+  font-style: italic;
+  max-width: 545px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+}
+
+    </style>
+    <title>Tribute Page</title>
+  </head>
+  <body>
+    <main id = "main">
+      <h1 id = "title">Sharad Pawar</h1>
+      <figure id = "img-div">
+        <img id="image" src="https://www.nagpurtrends.com/uploads/bga4jr-sharad-pawar-s_d_d_d_d_d_d_d.jpg" alt="Mr Sharad Pawar in a press conference">
+        <figcaption id = "img-caption">Sharadchandra Pawar</figcaption>
+      </figure>
+      <section id = "tribute-info">
+        <h3>Here's a time line of Mr Pawar's life:</h3>
+        <ul>
+          <li><strong>1958</strong>
+          - Pawar preferred the Congress party and joined Youth Congress
+          </li>
+          <li><strong>1967</strong>
+          - At the young age of 27, Pawar was nominated as the candidate for the Baramati constituency of the Maharashtra Legislative Assembly over more established members by the undivided Congress Party.
+          </li>
+          <li><strong>1977</strong>
+          - Lok Sabha elections, Congress party, under Indira Gandhi, lost power to the Janata Alliance.
+          </li>
+          <li><strong>1978</strong>
+          - In the state assembly elections held early this year, the two Congress parties ran separately but then formed an alliance to keep power under Vasantdada Patil and deny it to Janata Party which emerged as the biggest single party after the election, but without a majority. Pawar served as Minister of Industry and Labour in the Patil government.
+          </li>
+          <li><strong>1980</strong>
+          - In the 1980 elections Congress (I) won the majority in the state assembly, and A.R. Antulay took over as chief minister.
+          </li>
+          <li><strong>1983</strong>
+          Pawar took over the Presidency of his Indian National Congress (Socialist) Congress (S) party in 1983
+          </li>
+        </ul>
+        <h3>
+          If you have time, you should read more about this incredible human
+          being on his
+          <a
+            id="tribute-link"
+            href="https://en.wikipedia.org/wiki/Sharad_Pawar"
+            target="_blank"
+            >Wikipedia entry</a
+          >.
+        </h3>
+      </section>
+    </main>
+  </body>
+  </html>
