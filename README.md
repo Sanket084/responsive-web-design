@@ -1,6 +1,30 @@
 # RESPONSIVE WEB DESIGN
 
+## Week 3
 
+### 14/04/2024
+
+**Session 1**
+Today I started and completed exercise 'Learn CSS Grid by Building a Magazine'
+
+- Created a magazine using CSS Grid Layout
+- CSS Grid is a layout like flexbox
+- Learned how to create a grid and assign elements their specific grid
+- Using CSS Grid properties the page was separated in 3 columns, as we see in real newspapers/magazines
+- Used @media queries to make to magazine responsive
+
+**Session 2**
+In the second session, completed exercise 'Learn CSS Animation by Building a Ferris Wheel'
+
+- Built a Ferris wheel using a solid border on a div.
+- Used border-radius: 40% to convert the div into a circle
+- Used animation properties of CSS:
+  - @keyframes used in percentage to set some properties at given keyframe
+  - animation-name
+  - animation-duration
+  - animation-iteration-count
+  -animation-timing-function
+- The 'animation' shorthand CSS property applies an animation between styles. It is a shorthand for animation-name, animation-duration, animation-timing-function, animation-delay, animation-iteration-count, animation-direction, animation-fill-mode, animation-play-state, and animation-timeline
 
 ## Week 2
 
