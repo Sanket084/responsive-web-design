@@ -4,7 +4,7 @@
 
 ### 14/04/2024
 
-**Session 1**
+**Session 1** <br>
 Today I started and completed exercise 'Learn CSS Grid by Building a Magazine'
 
 - Created a magazine using CSS Grid Layout
@@ -13,7 +13,7 @@ Today I started and completed exercise 'Learn CSS Grid by Building a Magazine'
 - Using CSS Grid properties the page was separated in 3 columns, as we see in real newspapers/magazines
 - Used @media queries to make to magazine responsive
 
-**Session 2**
+**Session 2** <br>
 In the second session, completed exercise 'Learn CSS Animation by Building a Ferris Wheel'
 
 - Built a Ferris wheel using a solid border on a div.
@@ -43,7 +43,7 @@ Was not able to complete exercises today because of college assignments
 
 ### 08/04/2024
 
-**Session 1**
+**Session 1** <br>
 Today started and completed exercise 'Learn Intermediate CSS by Building a Cat Painting'
 
 - Built a cat painting using CSS
@@ -56,7 +56,7 @@ Today started and completed exercise 'Learn Intermediate CSS by Building a Cat P
 - Using different types of CSS positioning parts of the cats were placed
 - Use of border properties to create parts of cat.
 
-**Session 2**
+**Session 2** <br>
 Started and completed first responsive exercise 'Learn Responsive Web Design by Building a Piano
 
 - Built a piano which is responsive in size, works for various types of screen sizes
@@ -65,7 +65,7 @@ Started and completed first responsive exercise 'Learn Responsive Web Design by 
 
 ### 07/04/2024
 
-**Session 1**
+**Session 1** <br>
 Today learnt about Git , Github and basic terminal commands.
 
 - Watched a crash course video on YouTube
@@ -88,7 +88,7 @@ Today learnt about Git , Github and basic terminal commands.
   - git branch
   - git checkout
 
-**Session 2**
+**Session 2** <br>
 Started with lesson 'Learn more about CSS Pseudo Selectors by Building A Balance Sheet'
 
 - Created a balance sheet using HTML and CSS
@@ -102,13 +102,13 @@ Started with lesson 'Learn more about CSS Pseudo Selectors by Building A Balance
 
 ### 06/04/2024
 
-**Session 1**
+**Session 1** <br>
 Today completed the remaining steps of 'Learn Accessibility by Building a Quiz
 
 - Completed steps 41 - 67
 - Used 'aria-labelledby' attribute for screen readers
 
-**Session 2**
+**Session 2** <br>
 Built a certification project 'Tribute Page'
 
 - This was one of the required projects to earn the certificate
@@ -136,7 +136,7 @@ Was not able to complete any exercises as I was not home
 
 ### 01/04/2024
 
-**Session 1**
+**Session 1** <br>
 Today started with 'Learn CSS Flexbox by Building a Photo Gallery
 
 - Completed 24 of 24 steps
@@ -146,7 +146,7 @@ Today started with 'Learn CSS Flexbox by Building a Photo Gallery
 - 'align-items' to align vertically
 - Use of 'flex-direction' and 'gap' properties
 
-**Session 2**
+**Session 2** <br>
 Second session completed: 'Learn Typography by Building a Nutrition Label'
 
 - Completed all 67 steps
@@ -157,7 +157,7 @@ Second session completed: 'Learn Typography by Building a Nutrition Label'
 
 ### 31/03/2024
 
-**Session 1**
+**Session 1** <br>
 Completed the remaining 20 steps of 'Learn HTML by Building a Registration Form'
 
 - Completed steps 46 - 65
@@ -165,14 +165,14 @@ Completed the remaining 20 steps of 'Learn HTML by Building a Registration Form'
 - Learned how to select a specific input type
 - For example to select the submit type: _input[type = "submit"]_
 
-**Session 2**
+**Session 2** <br>
 Built a certification project 'Survey Form'
 
 - This was one of the required projects to earn the certificate
 - A survey form was built from scratch
 - Similar to the functionality of https://survey-form.freecodecamp.rocks
 
-**Session 3**
+**Session 3** <br>
 Last session of the day, started and completed: Learn the CSS Box Model by Building a Rothko Painting
 
 - Completed steps 1 to 45
@@ -181,7 +181,7 @@ Last session of the day, started and completed: Learn the CSS Box Model by Build
 - Use of 'overflow' to resolve overlapping margin/padding conflicts
 ### 30/03/2024
 
-**Session 1**
+**Session 1** <br>
 Today I completed the remaining 15 steps of 'Learn CSS Colors by Building a Set of Colored Markers'.
 
 - Completed steps 70 - 94
@@ -192,7 +192,7 @@ Today I completed the remaining 15 steps of 'Learn CSS Colors by Building a Set 
   &nbsp; hsla(242, 51%, 23%, 0.75)
   &nbsp;#3B7E20CC
 
-**Session 2**
+**Session 2** <br>
 In second session I started new exercise: Learn HTML by Building a Registration Form
 
 - Completed steps 1 - 45
