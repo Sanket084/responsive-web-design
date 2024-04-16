@@ -2,7 +2,22 @@
 
 ## Week 3
 
-### 14/04/2024
+### 16/04/2024
+
+**Session 1** <br>
+Built a certification project 'Product Landing Page'
+
+- This was one of the required projects to earn the certificate
+- A landing page was made which resembled https://product-landing-page.freecodecamp.rocks/
+
+**Session 2** <br>
+Built the last certification project 'Personal Portfolio Website'
+
+- This was the last certification project, thus marking the end of this course.
+- Created a personal portfolio webpage mimicing https://personal-portfolio.freecodecamp.rocks/
+- Next I will start with JavaScript.
+
+### 15/04/2024
 
 **Session 1** <br>
 Today I started and completed exercise 'Learn CSS Grid by Building a Magazine'
